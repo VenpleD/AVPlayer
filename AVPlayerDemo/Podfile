@@ -1,0 +1,25 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target "AVPlayerDemo" do
+	
+	platform :ios, '8.0'
+	use_frameworks!
+	inhibit_all_warnings!
+
+	pod 'SDWebImage', '~> 3.7.5'
+	pod 'Masonry', '~> 1.0.0'
+	pod 'MBProgressHUD', '~> 0.9.2'
+
+	pod 'ReactiveCocoa', '2.5'
+	pod 'BlocksKit', '~> 2.2.5'
+	pod 'IQKeyboardManager'
+
+	pod 'pop', '~> 1.0.9'
+	pod 'GPUImage'
+	
+	pod 'QMUIKit'
+	pod 'MJExtension'
+	pod 'MWPhotoBrowser'
+	pod 'TZImagePickerController'
+    pod 'AFNetworking', '~> 3.1.0'
+end

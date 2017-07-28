@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>payTimer</key>
+		<string>2017-02-15 17:13</string>
+		<key>allPrice</key>
+		<integer>105</integer>
+		<key>shopName</key>
+		<string>我是一直炸鸡</string>
+		<key>shopID</key>
+		<string>132141s2ad321dad1321301a</string>
+		<key>shopTpye</key>
+		<integer>1</integer>
+		<key>goodsModel</key>
+		<array>
+			<dict>
+				<key>goodsImageUrl</key>
+				<string>http://img3.duitang.com/uploads/item/201204/29/20120429235214_XUwEf.jpeg</string>
+				<key>goodsPrice</key>
+				<integer>7</integer>
+				<key>goodsQty</key>
+				<integer>5</integer>
+				<key>goodsName</key>
+				<string>炸鸡腿</string>
+			</dict>
+			<dict>
+				<key>goodsImageUrl</key>
+				<string>http://img3.duitang.com/uploads/item/201204/29/20120429235214_XUwEf.jpeg</string>
+				<key>goodsPrice</key>
+				<integer>5</integer>
+				<key>goodsQty</key>
+				<integer>3</integer>
+				<key>goodsName</key>
+				<string>冰镇可乐</string>
+			</dict>
+			<dict>
+				<key>goodsImageUrl</key>
+				<string>http://img3.duitang.com/uploads/item/201204/29/20120429235214_XUwEf.jpeg</string>
+				<key>goodsPrice</key>
+				<integer>5</integer>
+				<key>goodsQty</key>
+				<integer>5</integer>
+				<key>goodsName</key>
+				<string>鸡肉卷</string>
+			</dict>
+			<dict>
+				<key>goodsImageUrl</key>
+				<string>http://img3.duitang.com/uploads/item/201204/29/20120429235214_XUwEf.jpeg</string>
+				<key>goodsPrice</key>
+				<integer>6</integer>
+				<key>goodsQty</key>
+				<integer>5</integer>
+				<key>goodsName</key>
+				<string>大鸡翅</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>allPrice</key>
+		<integer>56</integer>
+		<key>payTimer</key>
+		<string>2017-02-15 17:13</string>
+		<key>goodsModel</key>
+		<array>
+			<dict>
+				<key>goodsImageUrl</key>
+				<string>http://sydj.cpd.com.cn/n23501296/c29235898/part/29235913.jpg</string>
+				<key>goodsPrice</key>
+				<integer>56</integer>
+				<key>goodsName</key>
+				<string>优惠买单</string>
+			</dict>
+		</array>
+		<key>shopName</key>
+		<string>汉堡王</string>
+		<key>shopID</key>
+		<string>78854546547dad4654652q1</string>
+		<key>shopTpye</key>
+		<integer>2</integer>
+		<key>shopAllPeice</key>
+		<integer>56</integer>
+	</dict>
+</array>
+</plist>
